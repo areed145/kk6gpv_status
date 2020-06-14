@@ -11,3 +11,5 @@
 | kk6gpv-wunderground | ------------------- | --------------- | ---------------- | ![Deploy to Heroku](https://github.com/areed145/kk6gpv-wunderground/workflows/Docker%20Image%20CI/badge.svg) |
 | kk6gpv-aprs-entry | ------------------- | --------------- | ---------------- | ![Deploy to Heroku](https://github.com/areed145/kk6gpv-aprs-entry/workflows/Docker%20Image%20CI/badge.svg) |
 | kk6gpv-aprs-prefix | ------------------- | --------------- | ---------------- | ![Deploy to Heroku](https://github.com/areed145/kk6gpv-aprs-prefix/workflows/Docker%20Image%20CI/badge.svg) |
+| kk6gpv-aprs-radius | ------------------- | --------------- | ---------------- | ![Deploy to Heroku](https://github.com/areed145/kk6gpv-aprs-radius/workflows/Docker%20Image%20CI/badge.svg) |
+| kk6gpv-flickr | ------------------- | --------------- | ---------------- | ![Deploy to Heroku](https://github.com/areed145/kk6gpv-flickr/workflows/Docker%20Image%20CI/badge.svg) |

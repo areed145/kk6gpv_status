@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "*/30 * * * *"
   push:
     branches: [master]
 
@@ -15,3 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: GitHub README Generator
+        uses: th3c0d3br34ker/github-readme-info@1.0.2

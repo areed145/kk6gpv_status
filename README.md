@@ -24,3 +24,6 @@
 | [kk6gpv-doggr-crm](https://github.com/areed145/kk6gpv-doggr-crm) | | | [![docs](https://img.shields.io/badge/gh--pages-docs-blueviolet)](https://areed145.github.io/doggr-crm) | [![codecov](https://codecov.io/gh/earthlabs/kk6gpv-doggr-crm/branch/master/graph/badge.svg)](https://codecov.io/gh/earthlabs/kk6gpv-doggr-crm) | ![Docker Hub](https://github.com/areed145/kk6gpv-doggr-crm/workflows/Docker%20Hub/badge.svg) |
 | [kk6gpv-doggr-agg](https://github.com/areed145/kk6gpv-doggr-agg) | | | [![docs](https://img.shields.io/badge/gh--pages-docs-blueviolet)](https://areed145.github.io/doggr-agg) | [![codecov](https://codecov.io/gh/earthlabs/kk6gpv-doggr-agg/branch/master/graph/badge.svg)](https://codecov.io/gh/earthlabs/kk6gpv-doggr-agg) | ![Docker Hub](https://github.com/areed145/kk6gpv-doggr-agg/workflows/Docker%20Hub/badge.svg) |
 | [kk6gpv-doggr-cyc](https://github.com/areed145/kk6gpv-doggr-cyc) | | | [![docs](https://img.shields.io/badge/gh--pages-docs-blueviolet)](https://areed145.github.io/doggr-cyc) | [![codecov](https://codecov.io/gh/earthlabs/kk6gpv-doggr-cyc/branch/master/graph/badge.svg)](https://codecov.io/gh/earthlabs/kk6gpv-doggr-cyc) | ![Docker Hub](https://github.com/areed145/kk6gpv-doggr-cyc/workflows/Docker%20Hub/badge.svg) |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

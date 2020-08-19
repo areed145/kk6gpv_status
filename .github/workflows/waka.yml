@@ -1,6 +1,6 @@
 name: Waka Readme
 
-oon:
+on:
   schedule:
     - cron: "0 */24 * * *"
   push:
